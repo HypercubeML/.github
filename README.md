@@ -1,4 +1,3 @@
-# .github
 # HypercubeML
 
 **Machine learning on the Boolean hypercube** — shared topology, sparse XOR addressing, C++23 cores with Python SDKs.
